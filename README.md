@@ -1,7 +1,3 @@
-<!-- رأس الصفحة مع لمسة فنية -->
-<p align="center">
-  <img src="https://github.com/HesKal/Data-Analytics-Project/raw/main/assets/images/banner.png.jpg?raw=true" alt="Hessa's GitHub Profile Banner" width="100%"/>
-</p>
 
 <h1 align="center">Hey there, I'm Hessa Khalfan 👋</h1>
 <h3 align="center">A Data Science & Information Systems student with a passion for turning complex data into beautiful, actionable insights.</h3>
